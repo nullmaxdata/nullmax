@@ -45,11 +45,10 @@
 
  消息更正一下，听说是数据平台中心下面的感知集成组要签署的。工作这么多年，第一次见到这玩意。
 
-
 ![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1.png)
-![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/2.png)
+Raw GitHub Image
 
-#只有我是最好的，你们都不行
+# 只有我是最好的，你们都不行
 在他的编程世界里，每一个敲下的字符都是他眼中的杰作。每当完成一段代码，他的脸上总会浮现出一种满足的笑容，仿佛整个软件工程的秘密都被他握在了手中。“只有我写的代码才最牛逼。”这句话成了他挂在嘴边的口头禅，不管面对多么复杂的项目，他总是自信满满地认为自己的方案是最好的。
 
 然而，在别人的眼中，那些所谓的“杰作”不过是一堆杂乱无章的拼凑，缺乏任何结构上的美感与逻辑上的严谨。但他对此充耳不闻，每当有人提出不同的意见或是建议采用更先进的设计模式时，他会立刻摆出一副不屑的态度，“你们根本不懂我的思路，这些新技术不过是花哨的噱头。”
@@ -60,4 +59,133 @@
 
 但此时的醒悟，对于已经陷入困境的项目来说，可能已经太迟了。就像那只终于明白天外有天道理的井底之蛙，可惜一切都已无法回头。而在那之后，他依旧会在心底默默坚持着那份骄傲，尽管周围的人早已看清了事实——他所谓的“最牛逼”，不过是矮子里挑出来的将军罢了。
 
+# 招聘
+
+原文链接：
+
+[这家智驾公司的活人感，可太「招」人喜欢了！](https://mp.weixin.qq.com/s/wJkXBwPD9mPZ5BgkmOa3vA)
+
+
+
+
+
+
+
+技术
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/6.png)
+
+技术没啥深度，就是听话，即使是大厂家不想做，不愿意做的需求，放在这里都能接受，都能做，都能改。
+
+团队能力高度互补，只有你一个人在一件事情，没有备份的，怎么互补？
+
+真东西，新东西，因为都没遇到过，可不得大家一起学习，真东西，那是别人家的，拿过来学习模仿一下呗。
+
+
+
+环境
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/5.png)
+
+
+
+高大上的环境，没有任何窗户，全靠新风系统，里面热的要死，特别是我们那块地方，比别的地方温度高好几度。周边只有一个学林路地铁站，还在修路，后面乱停车，不过这个我很喜欢，暂时还没交警过来贴条子。
+
+
+
+扁平化
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/7.png)
+
+扁平化，意味着一言堂，你的领导决定你的绩效，即使你做的很好，他说你不行，就不行。
+
+制度合理，就是你都得遵守，只要你不满意，反抗了，就直接找HR或者其他人搞你，明里暗地里给你扣帽子，你连申诉的机会都没有。
+
+流程顺畅，就是简单的事情复杂化，没啥顺畅的。
+
+沟通高效，相互扯皮，上面的人看不到，找别人去支持，有的小组长直接拦着，不给人，不派人干活。有的小组长不干人事，但是很会汇报。比如基础架构部门下面的某些小组长或者同事，找他们给支持，就是一个字没人，或者没意义，总是在扯皮。有时候，还把人家项目经理骂一顿。不过，项目经理在项目支持上还是很好的，只是为了搞定项目，其他的不管，只有项目顺利，这点挺好的。
+
+成长空间，好好干活吧，别总想着那些没用的事情，干不好，就把你干了，当然了，肯定有混的舒服的部门了。
+
+转岗，不存在的，总是会想办法，把你搞走的，不行你就试试，试试就逝世。
+
+这几条说的就是一个屁话，等你进来了，你就知道了。
+
+
+
+岗位
+
+
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/3.png)
+
+
+
+确实有这些部门在招聘，岗位也确实有，但是也有混杂着，内部感知，部分方案进度缓慢，获取一些新鲜血液，才能走的更长远。现在公司内部差不多有240人，如果都放开HC的话，感觉可以突破300大关。如果后续业绩不能让集团满意，后面的事情，懂得都懂。
+
+周年礼物
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/4.png)
+
+这些东西有总比没有的强，不用期待，也不用对比其他家，你是来干活的，又不是靠这些东西生存的，多少是个心意。
+
+
+
+# 新增爆料
+
+1.感知部门下面的定位组，基本上要实现一年一换的节奏了，除了领导没换，下面的基本上换了一波
+
+2.繁哥现在基本上消停了，对感知的影响开始降低，现在感知部门应该稍微好混点了，想来的可以过来了
+
+3.规控部门去年拿了一个一等奖.听说是修复了3000+ bug,然后面测试发现了更多的bug
+
+4.从地平线那边来了一个新的领导，负责低算相关工作
+
+5.原来干了一年多的低算平台，好像是啥am62a的项目，芯片应该是TI的，现在项目也停了，投入了不少资源，但是最后结果就是啥也没有，啥也不是
+
+6.基础架构部门下面的感知集成小组，气氛怪异，现在都没人敢去那边溜达了，项目经理去了，也能被骂的狗血淋头
+
+7.基础架构部门下面数据采集部分，有新增了不少人员，但是感觉产出不行，提交给感知部分的数据异常增加，在规定时间内，不能满足感知需求，但是没人敢说一个不字。有懂的小伙伴可以爆料一下。
+
+邮箱：zhangkimi75@gmail.com
+
+# report
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1001.png)
+
+
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1002.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1003.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1004.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1005.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1007.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1008.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1009.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10010.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10012.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10013.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10014.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10015.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10017.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10018.png)
+
+![](https://raw.githubusercontent.com/nullmaxdata/picture/main/10020.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10021.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10022.png)
 
