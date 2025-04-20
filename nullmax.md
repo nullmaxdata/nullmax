@@ -148,3 +148,44 @@ Raw GitHub Image
 7.基础架构部门下面数据采集部分，有新增了不少人员，但是感觉产出不行，提交给感知部分的数据异常增加，在规定时间内，不能满足感知需求，但是没人敢说一个不字。有懂的小伙伴可以爆料一下。
 
 邮箱：zhangkimi75@gmail.com
+
+# report
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1001.png)
+
+
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1002.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1003.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1004.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1005.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1007.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1008.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/1009.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10010.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10012.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10013.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10014.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10015.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10017.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10018.png)
+
+![](https://raw.githubusercontent.com/nullmaxdata/picture/main/10020.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10021.png)
+
+![Raw GitHub Image](https://raw.githubusercontent.com/nullmaxdata/picture/main/10022.png)
+
